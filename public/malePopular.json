@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "perfumeName": "Acqua Di Gio",
+        "image": "https://example.com/images/evodia-royal-oud.jpg",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "perfumeName": "Dior Sauvage Elixir",
+        "image": "https://example.com/images/mystic-amber.jpg",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "perfumeName": "Imagination Luise Vitton",
+        "image": "https://example.com/images/santal-essence.jpg",
+        "price": 250
+    },
+    {
+        "id": 4,
+        "perfumeName": "Bleu de Chanel",
+        "image": "https://example.com/images/velvet-musk.jpg",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "perfumeName": "Stronger With You",
+        "image": "https://example.com/images/oud-al-majestic.jpg",
+        "price": 150
+    },
+    {
+        "id": 6,
+        "perfumeName": "Ultra Male",
+        "image": "https://example.com/images/citrus-bloom.jpg",
+        "price": 200
+    },
+    {
+        "id": 7,
+        "perfumeName": "Reflection Man Amaugh",
+        "image": "https://example.com/images/dark-vetiver.jpg",
+        "price": 200
+    },
+    {
+        "id": 8,
+        "perfumeName": "JPG Scandal",
+        "image": "https://example.com/images/midnight-rose.jpg",
+        "price": 200
+    }
+]
