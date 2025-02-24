@@ -3,11 +3,11 @@ import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import Image from 'next/image';
-import slider1 from '../assets/banner1.jpg';
-import slider2 from '../assets/banner2.jpg';
-import slider3 from '../assets/banner3.jpg';
-import slider4 from '../assets/banner4.jpg';
-import slider5 from '../assets/banner5.jpg';
+import slider1 from '../assets/bannerImg/banner1.jpg';
+import slider2 from '../assets/bannerImg/banner2.jpg';
+import slider3 from '../assets/bannerImg/banner3.jpg';
+import slider4 from '../assets/bannerImg/banner4.jpg';
+import slider5 from '../assets/bannerImg/banner5.jpg';
 
 const Banner = () => {
     return (

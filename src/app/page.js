@@ -1,4 +1,5 @@
 import Banner from "@/components/Banner";
+import Introduce from "@/components/Introduce";
 import Navbar from "@/components/Navbar";
 import Image from "next/image";
 
@@ -7,6 +8,7 @@ export default function Home() {
     <div>
       <Navbar></Navbar>
       <Banner></Banner>
+      <Introduce></Introduce>
     </div>
   );
 }
